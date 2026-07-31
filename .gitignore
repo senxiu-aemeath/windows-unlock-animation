@@ -12,6 +12,7 @@ obj/
 *.mov
 *.mkv
 *.avi
+video/
 
 # Runtime diagnostics
 unlock-*.log
