@@ -1,0 +1,32 @@
+# Compiled output
+*.exe
+*.pdb
+bin/
+obj/
+.build/
+
+# User-provided media
+*.gif
+*.mp4
+*.webm
+*.mov
+*.mkv
+*.avi
+
+# Runtime diagnostics
+unlock-*.log
+
+# Local experiments and implementation notes
+*-preview.*
+README-unlock.md
+UNLOCK-CINEMATIC-BLUEPRINT.md
+UNLOCK-CINEMATIC-CHANGELOG.md
+
+# Editors and Windows
+.idea/
+.vs/
+.vscode/
+*.suo
+*.user
+Desktop.ini
+Thumbs.db
